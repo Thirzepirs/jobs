@@ -1,0 +1,29 @@
+As a Kubernetes SRE you will be responsible for designing, implementing and operating the Kubernetes cluster that runs atop our energy efficient distributed datacenter in houses*. You’ll work within the Nerdalize Infrastructure Team (aka The Knights who say “NI”), which is responsible for our tech stack down from monitoring the hardware up to our customer facing Kubernetes clusters.
+
+In this role you’ll closely cooperate with our Product Team that enables our customers to buy and use their Kubernetes clusters to run their workloads on the Nerdalize infrastructure. You’ll be tasked with translating customers' needs you get from the Product Team into technical and architectural decisions.
+
+*Distributed datacenter? Say what?! Yes, at Nerdalize we're dead serious about building the cloud one house at the time. By placing our servers in homes instead of in a datacenter, we can efficiently reuse the excess heat to heat up tap water. Check out this video to learn more. Or just fiddle about with our cloud platform yourself!
+
+*Skills & experience you'll be adding to the team*
+- you are comfortable deploying, operating and using Kubernetes clusters
+- you have a strong awareness of Kubernetes user management (RBAC)
+- you have knowledge of Kubernetes security features
+- Docker has very little secrets for you
+- you can read & write Go and grasp golang tooling
+- you have basic IPv4 networking knowledge
+
+- you have deployed and operated Kubernetes clusters before
+- you have used Kubernetes for running production workloads
+- you have written significant Go code before
+- preferably you’ve hacked around in Kubernetes and are comfortable writing customer controllers and other awesome extensions
+some experience operating a large number of networked servers
+
+
+*You rock at*
+
+- Taking initiative. Go in head first and come up with new plans.
+- Keeping an open mind. A new perspective, failing miserably? It's all a learning experience for you. 
+- Working together with others is deeply engrained in your DNA. Getting away from your screen from time to time keeps you happy and productive.
+- Being aware of the security of our stack and how your work affects that. 
+- Analyzing systems and situations easily. You're a quick wit, aren't you?
+- Coming up with new and crazy ideas and solutions. You can see where you need to go and be creative in how to get there.
